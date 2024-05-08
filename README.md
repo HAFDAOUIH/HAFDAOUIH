@@ -10,20 +10,19 @@ I'm passionate about leveraging the power of artificial intelligence and machine
 
 ## ⚡ A Few Quick Facts:
 
-<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+<img align="right" src="https://github.com/HAMZAUEST/HAMZAUEST/blob/main/profile_pic.jpg" />
 
-- 🔭 I’m currently working on multiple projects on Computer Vision.
-- 🧮 I’m currently learning Lie algebra.
-- 👯 I’m looking to collaborate on any Computer Vision related research project.
-- 🤔 I’m looking for help with Lie algebra, Group theory & Manifold.
-- 💬 Ask me about anything related to the latest tech.
-- 📫 How to reach me: [Gmail](mailto:mirsazzathossain@gmail.com)
+- 🔭 I’m currently working on projects related to Artificial Intelligence and Data Science.
+- 🌱 I’m currently learning about Lie algebra and Group theory.
+- 👯 I’m looking to collaborate on projects involving Computer Vision, Natural Language Processing, and Machine Learning.
+- 🤔 I’m looking for help with deepening my understanding of Lie algebra, Group theory, and Manifold.
+- 💬 Ask me about anything related to the latest trends in AI, data science, or technology in general.
+- 📫 How to reach me: [hamza.hafdaoui@etu.uae.ac.ma](mailto:hamza.hafdaoui@etu.uae.ac.ma)
 - 😄 Pronouns: He/Him
-- 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
-- 📝 I often write articles on [my blog](https://mirsazzathossain.me/articles).
-- ⚡ Fun fact: I have become too lazy to write a blog post these days.. 🤣
+- 🧾 Check out my [resume](https://your-resume-url-here).
+- 📝 I often write articles on [my blog](https://your-blog-url-here).
+- ⚡ Fun fact: I enjoy swimming, traveling, playing chess, and exploring new technologies in my free time.
 
-&nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea..
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
 <br>
@@ -157,23 +156,17 @@ I'm passionate about leveraging the power of artificial intelligence and machine
 </p>
 <br>
 
-## 🏆 GitHub Trophies:
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain&column=8&row=1">
-</p>
-<br>
 
 ## 📈 GitHub Contribution Graph:
 
 <div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=mirsazzathossain&theme=minimal"/>
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=HAFDAOUIH&theme=minimal"/>
 </div>
 <br>
 
 ## 📊 GitHub Stats:
 
-<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsazzathossain&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=mirsazzathossain&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<img alt="Sazzat's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HAFDAOUIH&theme=white&&hide_border=true" width='48%' /> <img alt="Sazzat's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=HAFDAOUIH&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 <br>
 
 ## 🚧 Open source projects:
@@ -189,16 +182,6 @@ I'm passionate about leveraging the power of artificial intelligence and machine
             <td><b>👨‍💻 Language</b></td>
         </tr>
     </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/mirsazzathossain/mirsazzathossain.me.git"><b>mirsazzathossain.me</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Language" src="https://img.shields.io/github/languages/top/mirsazzathossain/mirsazzathossain.me?style=flat-square"/></td>
-        </tr>
-    </tbody>
 </table>
 <br>
 
@@ -240,9 +223,6 @@ Sunday                   539 commits         ███░░░░░░░░�
 
 📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
 💬 Programming Languages: 
 Python                   28 hrs 7 mins       ███████████████████████░░   91.12 % 
 Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
@@ -253,11 +233,6 @@ HTML                     19 mins             ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  30 hrs 51 mins      █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-LLM                      26 hrs 16 mins      █████████████████████░░░░   85.13 % 
-test-time-adaptation     2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-DSR                      1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-New Folder               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 💻 Operating System: 
 Linux                    30 hrs 51 mins      █████████████████████████   100.00 % 
