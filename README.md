@@ -17,9 +17,6 @@ I'm passionate about leveraging the power of artificial intelligence and machine
 - 🤔 I’m looking for help with deepening my understanding of Lie algebra, Group theory, and Manifold.
 - 💬 Ask me about anything related to the latest trends in AI, data science, or technology in general.
 - 📫 How to reach me: [hamza.hafdaoui@etu.uae.ac.ma](mailto:hamza.hafdaoui@etu.uae.ac.ma)
-- 😄 Pronouns: He/Him
-- 🧾 Check out my [resume](https://your-resume-url-here).
-- 📝 I often write articles on [my blog](https://your-blog-url-here).
 - ⚡ Fun fact: I enjoy swimming, traveling, playing chess, and exploring new technologies in my free time.
 
 
