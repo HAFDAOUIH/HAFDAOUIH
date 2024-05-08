@@ -108,6 +108,18 @@ I'm passionate about leveraging the power of artificial intelligence and machine
     <a href="https://kafka.apache.org/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="100" height="100"/></code> 
     </a> 
+    <a href="https://www.djangoproject.com/ target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="kafka" width="100" height="100"/></code> 
+    </a> 
+    <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="kafka" width="100" height="100"/></code> 
+    </a> 
+    <a href="https://streamlit.io/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" alt="kafka" width="100" height="100"/></code> 
+    </a> 
+    
+    
+    
 </p>
 
     
