@@ -58,7 +58,7 @@ I'm passionate about leveraging the power of artificial intelligence and machine
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/></code> 
     </a> 
     <a href="https://expressjs.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/></code> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="35" height="35"/></code> 
     </a> 
     <a href="https://www.mongodb.com/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></code> 
@@ -66,6 +66,40 @@ I'm passionate about leveraging the power of artificial intelligence and machine
     <a href="https://www.tensorflow.org" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code> 
     </a> 
+    <a href="https://www.scala-lang.org/" target="_blank"> 
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" alt="scala" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.arduino.cc/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.raspberrypi.org/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="raspberrypi" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.docker.com/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://scikit-learn.org/stable/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://hadoop.apache.org/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://kafka.apache.org/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="35" height="35"/></code> 
+    </a> 
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
 </p>
 
 <br>
