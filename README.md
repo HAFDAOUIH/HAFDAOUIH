@@ -28,7 +28,7 @@ I'm passionate about leveraging the power of artificial intelligence and machine
 
 <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="35" height="35"/></code>
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="70" height="70"/></code>
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></code> 
