@@ -1,6 +1,6 @@
 <img align="center" width="100%" alt="" src="https://www.zarla.com/images/Zarla-negative-space-logos-4500x2532-2021098.jpeg?crop=21:16,smart&width=420&dpr=2" />
 
-## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mir Hamza Hafdaoui!]<img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> 
+## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Hamza Hafdaoui!  <img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> 
 
 I'm passionate about leveraging the power of artificial intelligence and machine learning to tackle real-world challenges. My journey into the field of data science has been driven by a deep curiosity and a desire to uncover meaningful insights from complex datasets  🔥. Through hands-on projects and continuous learning, I've gained proficiency in applying cutting-edge AI algorithms, conducting statistical analysis, and building predictive models. This journey has ignited my passion for solving problems with data and has prepared me to make meaningful contributions to the field of AI and data science.
 
