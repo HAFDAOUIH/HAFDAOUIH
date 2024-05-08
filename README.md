@@ -10,7 +10,6 @@ I'm passionate about leveraging the power of artificial intelligence and machine
 
 ## ⚡ A Few Quick Facts:
 
-<img align="right" src="https://github.com/HAMZAUEST/HAMZAUEST/blob/main/profile_pic.jpg" />
 
 - 🔭 I’m currently working on projects related to Artificial Intelligence and Data Science.
 - 🌱 I’m currently learning about Lie algebra and Group theory.
@@ -24,8 +23,6 @@ I'm passionate about leveraging the power of artificial intelligence and machine
 - ⚡ Fun fact: I enjoy swimming, traveling, playing chess, and exploring new technologies in my free time.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
-<br>
 
 ## 🛠️ Languages and Tools I use:
 
